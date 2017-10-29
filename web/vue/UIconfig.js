@@ -1,7 +1,7 @@
 // This config is used in both the
 // frontend as well as the web server.
 
-// see https://github.com/askmike/gekko/blob/stable/docs/installing_gekko_on_a_server.md
+// see https://gekko.wizb.it/docs/installation/installing_gekko_on_a_server.html
 
 const CONFIG = {
   headless: false,
